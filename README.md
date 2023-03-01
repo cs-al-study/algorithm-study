@@ -17,12 +17,12 @@
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2529](https://www.acmicpc.net/problem/2529) | [이 구역의 승자는 누구야?!](https://www.acmicpc.net/problem/2529) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1339](https://www.acmicpc.net/problem/1339) | [올림픽 ](https://www.acmicpc.net/problem/1339) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [14888](https://www.acmicpc.net/problem/14888) | [사탕 게임](https://www.acmicpc.net/problem/14888) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [14889](https://www.acmicpc.net/problem/14889) | [한 줄로 서기](https://www.acmicpc.net/problem/14889) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [6603](https://www.acmicpc.net/problem/6603) | [후보 추천하기](https://www.acmicpc.net/problem/6603) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1182](https://www.acmicpc.net/problem/1182) | [이진 검색 트리](https://www.acmicpc.net/problem/1182) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [2529](https://www.acmicpc.net/problem/2529) | [부등호](https://www.acmicpc.net/problem/2529) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1339](https://www.acmicpc.net/problem/1339) | [단어 수학](https://www.acmicpc.net/problem/1339) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [14888](https://www.acmicpc.net/problem/14888) | [연산자 끼워넣기](https://www.acmicpc.net/problem/14888) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [14889](https://www.acmicpc.net/problem/14889) | [스타트와 링크](https://www.acmicpc.net/problem/14889) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [6603](https://www.acmicpc.net/problem/6603) | [로또](https://www.acmicpc.net/problem/6603) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [1182](https://www.acmicpc.net/problem/1182) | [부분수열의 합](https://www.acmicpc.net/problem/1182) |
 
 
 <br> <br> <br>
