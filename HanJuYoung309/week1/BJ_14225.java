@@ -39,6 +39,7 @@ public class BJ_14225 {
 
         }
         System.out.println(sum);
+        System.out.println("---");
 
 
     }
