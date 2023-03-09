@@ -1,46 +1,51 @@
-package backJoon;
-
+import java.util.HashSet;
 import java.util.Scanner;
+import java.util.Set;
 
 public class BJ_14225 {
 
-    public static void main(String[] args) {
+    static  int n;
+    static int arr[];
+    static Set<Integer> set= new HashSet<>(); //방문저장
+    static  int answer=1;
 
+    static  int min=Integer.MIN_VALUE;
+        public static void main(String[] args) {
 
-        //부분 수열의 합
+            Scanner scanner= new Scanner(System.in);
 
-        //수열 S가 주어졋을때 수열 S의 부분 수열의 합으로 나올수 없는 가장 작은 자연수를 구하시오
+            n=scanner.nextInt();
 
-        Scanner sc= new Scanner(System.in);
+            arr= new int[n];
+            for(int i=0; i<n; i++){
 
-        int n= sc.nextInt();
+                arr[i]=scanner.nextInt();
 
-        int sum=0;
-
-        int min=Integer.MIN_VALUE;
-
-        //수열 s
-        int arr[]= new int[3];
-
-        for(int i=0; i<n; i++){
-
-            arr[i]=sc.nextInt();
-
-            int temp=arr[0];
-
-            if(temp<arr[i]){
-               sum+=arr[i];
-
-               if(sum<min){
-                   min=sum;
-               }
+            }
+            dfs(0,0);
+            while (true){
+                if(set.contains(answer)){
+                    answer++;
+                }else {
+                    break;
+                }
             }
 
+        }
+
+        public static  void dfs(int idx, int sum){
+
+            if(idx==n){
+                if(sum>0){
+                   set.add(sum);
+                }
+            }else {
+                dfs(idx+1,sum+arr[idx]);
+                dfs(idx+1,sum);
+            }
 
         }
-        System.out.println(sum);
-        System.out.println("---");
 
 
     }
-}
+
