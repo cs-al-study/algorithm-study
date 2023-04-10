@@ -62,4 +62,22 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [9019](https://www.acmicpc.net/problem/9019) | [DSLR](https://www.acmicpc.net/problem/9019) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [14502](https://www.acmicpc.net/problem/14502) | [연구소](https://www.acmicpc.net/problem/14502) |
 
+## 2023 04/04 ~ 04/10
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [12886](https://www.acmicpc.net/problem/12886) | [돌 그룹](https://www.acmicpc.net/problem/12886) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [2206](https://www.acmicpc.net/problem/2206) | [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> | [16946](https://www.acmicpc.net/problem/16946) | [벽 부수고 이동하기4](https://www.acmicpc.net/problem/16946) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [14442](https://www.acmicpc.net/problem/14442) | [벽 부수고 이동하기2](https://www.acmicpc.net/problem/14442) |
+
+## 2023 04/11 ~ 04/17
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> | [16933](https://www.acmicpc.net/problem/16933) | [벽 부수고 이동하기3](https://www.acmicpc.net/problem/16933) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16954](https://www.acmicpc.net/problem/16954) | [움직이는 미로 탈출](https://www.acmicpc.net/problem/16954) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [3055](https://www.acmicpc.net/problem/3055) | [탈출](https://www.acmicpc.net/problem/3055) |
+| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> | [16236](https://www.acmicpc.net/problem/16236) | [아기 상어](https://www.acmicpc.net/problem/16236) |
+
 <br> <br> <br>
