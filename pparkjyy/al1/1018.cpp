@@ -24,7 +24,7 @@ char black_arr[8][8] = {
 	'W','B','W','B','W','B','W','B'
 };
 
-int white_first(int x, int y) {
+int wf(int x, int y) {
 	int result = 0;
 	for (int i = 0; i < 8; i++) {
 		for (int j = 0; j < 8; j++) {
@@ -35,7 +35,7 @@ int white_first(int x, int y) {
 	return result;
 }
 
-int black_first(int x, int y) {
+int bf(int x, int y) {
 	int result = 0;
 	for (int i = 0; i < 8; i++) {
 		for (int j = 0; j < 8; j++) {
@@ -47,10 +47,6 @@ int black_first(int x, int y) {
 }
 
 int main() {
-	ios::sync_with_stdio(false);
-	cin.tie(NULL);
-	cout.tie(NULL);
-
 	int n, m, result = 64;
 	cin >> n >> m;
 	for (int i = 0; i < n; i++)
@@ -60,8 +56,8 @@ int main() {
 	int t_white, t_black;
 	for (int i = 0; i <= n - 8; i++) {
 		for (int j = 0; j <= m - 8; j++) {
-			t_white = white_first(i, j);
-			t_black = black_first(i, j);
+			t_white = wf(i, j);
+			t_black = bf(i, j);
 			if (t_white < t_black) {
 				result = (t_white < result) ? t_white : result;
 			}
