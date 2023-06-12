@@ -87,7 +87,7 @@
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [1018](https://www.acmicpc.net/problem/1018) | [체스판 다시 칠하기](https://www.acmicpc.net/problem/1018) |
 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [1991](https://www.acmicpc.net/problem/1991) | [트리 순회](https://www.acmicpc.net/problem/1991) |
 
-## 2023 06/05 ~ 06/12
+## 2023 06/13 ~ 06/19
 
 | 난이도 | 번호 | 문제 이름 |
 |:------:|:----:|:---------:|
