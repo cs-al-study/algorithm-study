@@ -111,6 +111,6 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src=""/> | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/12987?language=java) | [숫자게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987?language=java) |
 | Lv. 2 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) |
-| Lv. 2 | [1197](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) |
+| Lv. 2 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) |
 
 <br> <br> <br>
