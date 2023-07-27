@@ -111,6 +111,6 @@
 |:------:|:----:|:---------:|
 | <img height="25px" width="25px" src=""/> | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/12987?language=java) | [숫자게임](https://school.programmers.co.kr/learn/courses/30/lessons/12987?language=java) |
 | Lv. 2 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/49993) | [스킬 트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993) |
-| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | [1197](https://www.acmicpc.net/problem/1197) | [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) |
+| Lv. 2 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/150369) | [택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369) |
 
 <br> <br> <br>
