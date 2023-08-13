@@ -131,5 +131,5 @@
 |:------:|:----:|:---------:|
 | Lv. 2 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/92335) | [k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335) |
 | Lv. 3 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/12979) | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) |
-| Lv. 2 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/150368) | [이모티콘 할인행사](https://school.programmers.co.kr/learn/courses/30/lessons/150368) |
+| Lv. 2 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) |
 
