@@ -133,3 +133,12 @@
 | Lv. 3 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/12979) | [기지국 설치](https://school.programmers.co.kr/learn/courses/30/lessons/12979) |
 | Lv. 2 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | [영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981) |
 
+<br> <br> <br>
+
+## 2023 08/15 ~ 08/21
+
+| 난이도 | 번호 | 문제 이름 |
+|:------:|:----:|:---------:|
+| Lv. 2 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/17686) | [[3차] 파일명 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/17686) |
+| Lv. 3 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/12979) | []() |
+| Lv. 2 | [프로그래머스](https://school.programmers.co.kr/learn/courses/30/lessons/12981) | []() |
