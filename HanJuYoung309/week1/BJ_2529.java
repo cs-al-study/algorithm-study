@@ -22,6 +22,8 @@ public class BJ_2529 {
 
             data[i]=sc.nextLine();
 
+
+
         }
 
         //k개의 부등호순서를 만족하는 k+1자리의 정수중 최대/최소

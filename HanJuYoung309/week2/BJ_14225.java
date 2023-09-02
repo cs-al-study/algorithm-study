@@ -8,8 +8,6 @@ public class BJ_14225 {
     static int arr[];
     static Set<Integer> set= new HashSet<>(); //방문저장
     static  int answer=1;
-
-    static  int min=Integer.MIN_VALUE;
         public static void main(String[] args) {
 
             Scanner scanner= new Scanner(System.in);
@@ -17,11 +15,7 @@ public class BJ_14225 {
             n=scanner.nextInt();
 
             arr= new int[n];
-            for(int i=0; i<n; i++){
-
-                arr[i]=scanner.nextInt();
-
-            }
+            for(int i=0; i<n; i++){arr[i]=scanner.nextInt();}
             dfs(0,0);
             while (true){
                 if(set.contains(answer)){
@@ -30,6 +24,7 @@ public class BJ_14225 {
                     break;
                 }
             }
+            System.out.println(answer);
 
         }
 
